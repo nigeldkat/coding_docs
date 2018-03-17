@@ -1,0 +1,13 @@
+things I need to learn
+
+- Modern web application development [e.g. AngularJS, NodeJS, Python, CSS3, Boostrap];
+
+- Mobile application development [e.g. iOS, Swift, Android, Apache Cordova, PhoneGap, Ionic];
+
+- NoSQL databases [e.g. DocumentDB, Cloud Datastore, MongoDB];
+
+- API management [e.g. Azure API Management, Google Cloud Endpoints];
+
+- Cloud-based platforms and services [e.g. Google Cloud Platform, MS Azure, AWS];
+
+- Continuous integration/continuous deployment
