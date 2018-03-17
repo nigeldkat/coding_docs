@@ -1,0 +1,28 @@
+Angular II / IV notes
+
+------------------------------------------------------------------
+built in directives
+
+*ngIf --  else capabilities  
+
+[ngStyle] = "{backgroundColor: getColor()}" - [ ] for property binding, expects java script and can call a method   -- this will assign a style
+
+[ngClass] = "{online: serverStatus === 'online'}"  [] for property binding, expects js obj  --this will assign a class dynamically
+
+*ngFor -- *ngFor = "let logItem of log; let i = index" to get the index
+
+
+
+
+-----------------------------------------------------------
+deployment
+
+build app for production - minify and ahead of time copilation (find documentation)
+
+base element - make sure set correctly.  need to change to particular path for ex...   /teddyFood vs basehref='/'  (this may be possible to do in the build process)
+
+assure server returns correct start page 
+
+configure server to return angular home page for 404 errors
+
+dist folder has what needs to be deployed
