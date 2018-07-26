@@ -1,0 +1,4 @@
+For createing new component / specify folder / Component name and adding to module
+
+ng g c foldername/componentname --module app.module
+
